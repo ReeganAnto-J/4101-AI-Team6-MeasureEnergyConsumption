@@ -9,3 +9,5 @@
 
 ## Progress:
 - Phase 1 submission complete
+- Phase 2 submission complete
+- Phase 3 submission complete
